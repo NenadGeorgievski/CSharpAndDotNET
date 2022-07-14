@@ -1,0 +1,16 @@
+E:\FullStackDevelopment\CSharpAndDotNet\Hello\bin\Debug\net5.0\Hello.exe
+E:\FullStackDevelopment\CSharpAndDotNet\Hello\bin\Debug\net5.0\Hello.deps.json
+E:\FullStackDevelopment\CSharpAndDotNet\Hello\bin\Debug\net5.0\Hello.runtimeconfig.json
+E:\FullStackDevelopment\CSharpAndDotNet\Hello\bin\Debug\net5.0\Hello.runtimeconfig.dev.json
+E:\FullStackDevelopment\CSharpAndDotNet\Hello\bin\Debug\net5.0\Hello.dll
+E:\FullStackDevelopment\CSharpAndDotNet\Hello\bin\Debug\net5.0\ref\Hello.dll
+E:\FullStackDevelopment\CSharpAndDotNet\Hello\bin\Debug\net5.0\Hello.pdb
+E:\FullStackDevelopment\CSharpAndDotNet\Hello\obj\Debug\net5.0\Hello.csproj.AssemblyReference.cache
+E:\FullStackDevelopment\CSharpAndDotNet\Hello\obj\Debug\net5.0\Hello.GeneratedMSBuildEditorConfig.editorconfig
+E:\FullStackDevelopment\CSharpAndDotNet\Hello\obj\Debug\net5.0\Hello.AssemblyInfoInputs.cache
+E:\FullStackDevelopment\CSharpAndDotNet\Hello\obj\Debug\net5.0\Hello.AssemblyInfo.cs
+E:\FullStackDevelopment\CSharpAndDotNet\Hello\obj\Debug\net5.0\Hello.csproj.CoreCompileInputs.cache
+E:\FullStackDevelopment\CSharpAndDotNet\Hello\obj\Debug\net5.0\Hello.dll
+E:\FullStackDevelopment\CSharpAndDotNet\Hello\obj\Debug\net5.0\ref\Hello.dll
+E:\FullStackDevelopment\CSharpAndDotNet\Hello\obj\Debug\net5.0\Hello.pdb
+E:\FullStackDevelopment\CSharpAndDotNet\Hello\obj\Debug\net5.0\Hello.genruntimeconfig.cache

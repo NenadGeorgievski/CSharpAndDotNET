@@ -1,0 +1,15 @@
+E:\FullStackDevelopment\CSharpAndDotNet\HelloAgain\bin\Debug\net6.0\HelloAgain.exe
+E:\FullStackDevelopment\CSharpAndDotNet\HelloAgain\bin\Debug\net6.0\HelloAgain.deps.json
+E:\FullStackDevelopment\CSharpAndDotNet\HelloAgain\bin\Debug\net6.0\HelloAgain.runtimeconfig.json
+E:\FullStackDevelopment\CSharpAndDotNet\HelloAgain\bin\Debug\net6.0\HelloAgain.dll
+E:\FullStackDevelopment\CSharpAndDotNet\HelloAgain\bin\Debug\net6.0\ref\HelloAgain.dll
+E:\FullStackDevelopment\CSharpAndDotNet\HelloAgain\bin\Debug\net6.0\HelloAgain.pdb
+E:\FullStackDevelopment\CSharpAndDotNet\HelloAgain\obj\Debug\net6.0\HelloAgain.csproj.AssemblyReference.cache
+E:\FullStackDevelopment\CSharpAndDotNet\HelloAgain\obj\Debug\net6.0\HelloAgain.GeneratedMSBuildEditorConfig.editorconfig
+E:\FullStackDevelopment\CSharpAndDotNet\HelloAgain\obj\Debug\net6.0\HelloAgain.AssemblyInfoInputs.cache
+E:\FullStackDevelopment\CSharpAndDotNet\HelloAgain\obj\Debug\net6.0\HelloAgain.AssemblyInfo.cs
+E:\FullStackDevelopment\CSharpAndDotNet\HelloAgain\obj\Debug\net6.0\HelloAgain.csproj.CoreCompileInputs.cache
+E:\FullStackDevelopment\CSharpAndDotNet\HelloAgain\obj\Debug\net6.0\HelloAgain.dll
+E:\FullStackDevelopment\CSharpAndDotNet\HelloAgain\obj\Debug\net6.0\ref\HelloAgain.dll
+E:\FullStackDevelopment\CSharpAndDotNet\HelloAgain\obj\Debug\net6.0\HelloAgain.pdb
+E:\FullStackDevelopment\CSharpAndDotNet\HelloAgain\obj\Debug\net6.0\HelloAgain.genruntimeconfig.cache

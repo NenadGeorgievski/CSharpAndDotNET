@@ -1,0 +1,15 @@
+E:\FullStackDevelopment\CSharpAndDotNet\Chapter02\Chapter02\Variables\bin\Debug\net6.0\Variables.exe
+E:\FullStackDevelopment\CSharpAndDotNet\Chapter02\Chapter02\Variables\bin\Debug\net6.0\Variables.deps.json
+E:\FullStackDevelopment\CSharpAndDotNet\Chapter02\Chapter02\Variables\bin\Debug\net6.0\Variables.runtimeconfig.json
+E:\FullStackDevelopment\CSharpAndDotNet\Chapter02\Chapter02\Variables\bin\Debug\net6.0\Variables.dll
+E:\FullStackDevelopment\CSharpAndDotNet\Chapter02\Chapter02\Variables\bin\Debug\net6.0\ref\Variables.dll
+E:\FullStackDevelopment\CSharpAndDotNet\Chapter02\Chapter02\Variables\bin\Debug\net6.0\Variables.pdb
+E:\FullStackDevelopment\CSharpAndDotNet\Chapter02\Chapter02\Variables\obj\Debug\net6.0\Variables.GeneratedMSBuildEditorConfig.editorconfig
+E:\FullStackDevelopment\CSharpAndDotNet\Chapter02\Chapter02\Variables\obj\Debug\net6.0\Variables.AssemblyInfoInputs.cache
+E:\FullStackDevelopment\CSharpAndDotNet\Chapter02\Chapter02\Variables\obj\Debug\net6.0\Variables.AssemblyInfo.cs
+E:\FullStackDevelopment\CSharpAndDotNet\Chapter02\Chapter02\Variables\obj\Debug\net6.0\Variables.csproj.CoreCompileInputs.cache
+E:\FullStackDevelopment\CSharpAndDotNet\Chapter02\Chapter02\Variables\obj\Debug\net6.0\Variables.dll
+E:\FullStackDevelopment\CSharpAndDotNet\Chapter02\Chapter02\Variables\obj\Debug\net6.0\ref\Variables.dll
+E:\FullStackDevelopment\CSharpAndDotNet\Chapter02\Chapter02\Variables\obj\Debug\net6.0\Variables.pdb
+E:\FullStackDevelopment\CSharpAndDotNet\Chapter02\Chapter02\Variables\obj\Debug\net6.0\Variables.genruntimeconfig.cache
+E:\FullStackDevelopment\CSharpAndDotNet\Chapter02\Chapter02\Variables\obj\Debug\net6.0\Variables.csproj.AssemblyReference.cache

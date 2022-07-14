@@ -1,0 +1,276 @@
+﻿++Solution 'Chapter02' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:Chapter02.sln
+++Vocabulary
+i:{00000000-0000-0000-0000-000000000000}:Vocabulary
+++Dependencies
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:>10
+++Imports
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:>63
+++bin
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:e:\fullstackdevelopment\csharpanddotnet\chapter02\chapter02\vocabulary\bin\
+++obj
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:e:\fullstackdevelopment\csharpanddotnet\chapter02\chapter02\vocabulary\obj\
+++Program.cs
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:e:\fullstackdevelopment\csharpanddotnet\chapter02\chapter02\vocabulary\program.cs
+++Analyzers
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:analyzers
+++Frameworks
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:frameworks
+++Sdk.props
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk\sdk\sdk.props
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.illink.tasks\sdk\sdk.props
+++Sdk.targets
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk\sdk\sdk.targets
+++Debug
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:e:\fullstackdevelopment\csharpanddotnet\chapter02\chapter02\vocabulary\bin\debug\
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:e:\fullstackdevelopment\csharpanddotnet\chapter02\chapter02\vocabulary\obj\debug\
+++project.assets.json
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:e:\fullstackdevelopment\csharpanddotnet\chapter02\chapter02\vocabulary\obj\project.assets.json
+++project.nuget.cache
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:e:\fullstackdevelopment\csharpanddotnet\chapter02\chapter02\vocabulary\obj\project.nuget.cache
+++Vocabulary.csproj.nuget.dgspec.json
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:e:\fullstackdevelopment\csharpanddotnet\chapter02\chapter02\vocabulary\obj\vocabulary.csproj.nuget.dgspec.json
+++Vocabulary.csproj.nuget.g.props
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:e:\fullstackdevelopment\csharpanddotnet\chapter02\chapter02\vocabulary\obj\vocabulary.csproj.nuget.g.props
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:e:\fullstackdevelopment\csharpanddotnet\chapter02\chapter02\vocabulary\obj\vocabulary.csproj.nuget.g.props
+++Vocabulary.csproj.nuget.g.targets
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:e:\fullstackdevelopment\csharpanddotnet\chapter02\chapter02\vocabulary\obj\vocabulary.csproj.nuget.g.targets
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:e:\fullstackdevelopment\csharpanddotnet\chapter02\chapter02\vocabulary\obj\vocabulary.csproj.nuget.g.targets
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++System.Text.Json.SourceGeneration
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.2\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.NETCore.App
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:e:\fullstackdevelopment\csharpanddotnet\chapter02\chapter02\vocabulary\microsoft.netcore.app
+++Microsoft.Common.props
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.props
+++Microsoft.NET.Sdk.props
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.props
+++Microsoft.NET.Sdk.BeforeCommon.targets
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.beforecommon.targets
+++Microsoft.CSharp.targets
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.csharp.targets
+++Microsoft.NET.Sdk.targets
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.targets
+++Microsoft.NET.Compatibility.targets
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk\targets\microsoft.net.compatibility.targets
+++NuGet.Build.Tasks.Pack.targets
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:c:\program files\dotnet\sdk\6.0.102\sdks\nuget.build.tasks.pack\build\nuget.build.tasks.pack.targets
+++net6.0
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:e:\fullstackdevelopment\csharpanddotnet\chapter02\chapter02\vocabulary\bin\debug\net6.0\
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:e:\fullstackdevelopment\csharpanddotnet\chapter02\chapter02\vocabulary\obj\debug\net6.0\
+++Microsoft.NuGet.ImportBefore.props
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:c:\program files\microsoft visual studio\2022\community\msbuild\current\imports\microsoft.common.props\importbefore\microsoft.nuget.importbefore.props
+++NuGet.props
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:c:\program files\microsoft visual studio\2022\community\common7\ide\commonextensions\microsoft\nuget\nuget.props
+++Microsoft.NET.Sdk.DefaultItems.props
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.defaultitems.props
+++Microsoft.NET.Sdk.ImportWorkloads.props
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.importworkloads.props
+++Microsoft.NET.SupportedTargetFrameworks.props
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk\targets\microsoft.net.supportedtargetframeworks.props
+++Microsoft.NET.SupportedPlatforms.props
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk\targets\microsoft.net.supportedplatforms.props
+++Microsoft.NET.WindowsSdkSupportedTargetPlatforms.props
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk\targets\microsoft.net.windowssdksupportedtargetplatforms.props
+++Microsoft.NET.Sdk.CSharp.props
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.csharp.props
+++Microsoft.NET.ILLink.props
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk\targets\microsoft.net.illink.props
+++Microsoft.NET.Compatibility.props
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk\targets\microsoft.net.compatibility.props
+++Microsoft.NET.PackTool.props
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk\targets\microsoft.net.packtool.props
+++Microsoft.NET.PackProjectTool.props
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk\targets\microsoft.net.packprojecttool.props
+++Microsoft.NET.Sdk.WindowsDesktop.props
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk.windowsdesktop\targets\microsoft.net.sdk.windowsdesktop.props
+++Microsoft.NET.Windows.props
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk\targets\microsoft.net.windows.props
+++Microsoft.NET.DefaultAssemblyInfo.targets
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk\targets\microsoft.net.defaultassemblyinfo.targets
+++Microsoft.NET.DefaultOutputPaths.targets
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk\targets\microsoft.net.defaultoutputpaths.targets
+++Microsoft.NET.Sdk.ImportPublishProfile.targets
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.importpublishprofile.targets
+++Microsoft.NET.TargetFrameworkInference.targets
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk\targets\microsoft.net.targetframeworkinference.targets
+++Microsoft.NET.Sdk.ImportWorkloads.targets
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.importworkloads.targets
+++Microsoft.NET.RuntimeIdentifierInference.targets
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk\targets\microsoft.net.runtimeidentifierinference.targets
+++Microsoft.NET.EolTargetFrameworks.targets
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk\targets\microsoft.net.eoltargetframeworks.targets
+++Microsoft.NET.NuGetOfflineCache.targets
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk\targets\microsoft.net.nugetofflinecache.targets
+++Microsoft.Managed.Before.targets
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.managed.before.targets
+++Microsoft.CSharp.CurrentVersion.targets
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.csharp.currentversion.targets
+++Microsoft.Managed.After.targets
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.managed.after.targets
+++Microsoft.NET.Sdk.Common.targets
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.common.targets
+++Microsoft.PackageDependencyResolution.targets
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk\targets\microsoft.packagedependencyresolution.targets
+++Microsoft.NET.Sdk.DefaultItems.targets
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.defaultitems.targets
+++Microsoft.NET.Sdk.FrameworkReferenceResolution.targets
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.frameworkreferenceresolution.targets
+++Microsoft.NET.Sdk.Shared.targets
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.shared.targets
+++Microsoft.NET.DisableStandardFrameworkResolution.targets
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk\targets\microsoft.net.disablestandardframeworkresolution.targets
+++Microsoft.NET.DesignerSupport.targets
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk\targets\microsoft.net.designersupport.targets
+++Microsoft.NET.GenerateAssemblyInfo.targets
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk\targets\microsoft.net.generateassemblyinfo.targets
+++Microsoft.NET.GenerateGlobalUsings.targets
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk\targets\microsoft.net.generateglobalusings.targets
+++Microsoft.NET.GenerateSupportedRuntime.targets
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk\targets\microsoft.net.generatesupportedruntime.targets
+++Microsoft.NET.ComposeStore.targets
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk\targets\microsoft.net.composestore.targets
+++Microsoft.NET.CrossGen.targets
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk\targets\microsoft.net.crossgen.targets
+++Microsoft.NET.ObsoleteReferences.targets
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk\targets\microsoft.net.obsoletereferences.targets
+++Microsoft.NET.Publish.targets
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk\targets\microsoft.net.publish.targets
+++Microsoft.NET.PackTool.targets
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk\targets\microsoft.net.packtool.targets
+++Microsoft.NET.PackProjectTool.targets
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk\targets\microsoft.net.packprojecttool.targets
+++Microsoft.NET.PreserveCompilationContext.targets
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk\targets\microsoft.net.preservecompilationcontext.targets
+++Microsoft.NET.ConflictResolution.targets
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk\targets\microsoft.net.conflictresolution.targets
+++Microsoft.NET.Sdk.CSharp.targets
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.csharp.targets
+++Microsoft.NET.ILLink.targets
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk\targets\microsoft.net.illink.targets
+++Microsoft.NET.Sdk.Analyzers.targets
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.analyzers.targets
+++Microsoft.NET.Compatibility.Common.targets
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk\targets\microsoft.net.compatibility.common.targets
+++ref
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:e:\fullstackdevelopment\csharpanddotnet\chapter02\chapter02\vocabulary\bin\debug\net6.0\ref\
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:e:\fullstackdevelopment\csharpanddotnet\chapter02\chapter02\vocabulary\obj\debug\net6.0\ref\
+++.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:e:\fullstackdevelopment\csharpanddotnet\chapter02\chapter02\vocabulary\obj\debug\net6.0\.netcoreapp,version=v6.0.assemblyattributes.cs
+++Vocabulary.AssemblyInfo.cs
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:e:\fullstackdevelopment\csharpanddotnet\chapter02\chapter02\vocabulary\obj\debug\net6.0\vocabulary.assemblyinfo.cs
+++Vocabulary.AssemblyInfoInputs.cache
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:e:\fullstackdevelopment\csharpanddotnet\chapter02\chapter02\vocabulary\obj\debug\net6.0\vocabulary.assemblyinfoinputs.cache
+++Vocabulary.assets.cache
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:e:\fullstackdevelopment\csharpanddotnet\chapter02\chapter02\vocabulary\obj\debug\net6.0\vocabulary.assets.cache
+++Vocabulary.csproj.AssemblyReference.cache
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:e:\fullstackdevelopment\csharpanddotnet\chapter02\chapter02\vocabulary\obj\debug\net6.0\vocabulary.csproj.assemblyreference.cache
+++Vocabulary.csproj.CoreCompileInputs.cache
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:e:\fullstackdevelopment\csharpanddotnet\chapter02\chapter02\vocabulary\obj\debug\net6.0\vocabulary.csproj.corecompileinputs.cache
+++Vocabulary.csproj.FileListAbsolute.txt
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:e:\fullstackdevelopment\csharpanddotnet\chapter02\chapter02\vocabulary\obj\debug\net6.0\vocabulary.csproj.filelistabsolute.txt
+++Vocabulary.GeneratedMSBuildEditorConfig.editorconfig
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:e:\fullstackdevelopment\csharpanddotnet\chapter02\chapter02\vocabulary\obj\debug\net6.0\vocabulary.generatedmsbuildeditorconfig.editorconfig
+++Vocabulary.GlobalUsings.g.cs
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:e:\fullstackdevelopment\csharpanddotnet\chapter02\chapter02\vocabulary\obj\debug\net6.0\vocabulary.globalusings.g.cs
+++Microsoft.NuGet.props
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\nuget\17.0\microsoft.nuget.props
+++Microsoft.NETCoreSdk.BundledVersions.props
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:c:\program files\dotnet\sdk\6.0.102\microsoft.netcoresdk.bundledversions.props
+++Microsoft.NET.Sdk.WindowsDesktop.WindowsForms.props
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk.windowsdesktop\targets\microsoft.net.sdk.windowsdesktop.windowsforms.props
+++Microsoft.NET.Sdk.WindowsDesktop.WPF.props
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk.windowsdesktop\targets\microsoft.net.sdk.windowsdesktop.wpf.props
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.android)
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:c:\program files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.android\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.ios)
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:c:\program files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.ios\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.maccatalyst)
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:c:\program files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.maccatalyst\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.macos)
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:c:\program files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.macos\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.maui)
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:c:\program files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.maui\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.tvos)
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:c:\program files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.tvos\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.workload.emscripten)
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:c:\program files\dotnet\sdk-manifests\6.0.100\microsoft.net.workload.emscripten\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.workload.mono.toolchain)
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:c:\program files\dotnet\sdk-manifests\6.0.100\microsoft.net.workload.mono.toolchain\workloadmanifest.targets
+++Microsoft.CSharp.Core.targets
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\roslyn\microsoft.csharp.core.targets
+++Microsoft.CSharp.DesignTime.targets
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\managed\microsoft.csharp.designtime.targets
+++Microsoft.Common.targets
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.common.targets
+++Microsoft.ServiceModel.targets
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.servicemodel.targets
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:c:\windows\microsoft.net\framework\v4.0.30319\microsoft.servicemodel.targets
+++Microsoft.NET.Sdk.DefaultItems.Shared.targets
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.defaultitems.shared.targets
+++Microsoft.NETCoreSdk.BundledCliTools.props
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:c:\program files\dotnet\sdk\6.0.102\microsoft.netcoresdk.bundledclitools.props
+++Microsoft.NET.DefaultPackageConflictOverrides.targets
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk\targets\microsoft.net.defaultpackageconflictoverrides.targets
+++Microsoft.CodeAnalysis.NetAnalyzers.props
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk\analyzers\build\microsoft.codeanalysis.netanalyzers.props
+++Microsoft.CodeAnalysis.NetAnalyzers.targets
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk\analyzers\build\microsoft.codeanalysis.netanalyzers.targets
+++Microsoft.NET.ILLink.Tasks.props
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.illink.tasks\build\microsoft.net.illink.tasks.props
+++System.Windows.Forms.Analyzers.props
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk.windowsdesktop\targets\system.windows.forms.analyzers.props
+++Microsoft.Managed.Core.targets
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\roslyn\microsoft.managed.core.targets
+++Microsoft.Managed.DesignTime.targets
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\managed\microsoft.managed.designtime.targets
+++Microsoft.Common.CurrentVersion.targets
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.common.currentversion.targets
+++Microsoft.Managed.Core.CurrentVersions.targets
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\roslyn\microsoft.managed.core.currentversions.targets
+++Microsoft.NET.props
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.net.props
+++Microsoft.CodeAnalysis.targets
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\codeanalysis\microsoft.codeanalysis.targets
+++Microsoft.Xaml.targets
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.xaml.targets
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:c:\windows\microsoft.net\framework\v4.0.30319\microsoft.xaml.targets
+++Microsoft.WorkflowBuildExtensions.targets
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.workflowbuildextensions.targets
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:c:\windows\microsoft.net\framework\v4.0.30319\microsoft.workflowbuildextensions.targets
+++Microsoft.TeamTest.targets
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\teamtest\microsoft.teamtest.targets
+++NuGet.targets
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:c:\program files\microsoft visual studio\2022\community\common7\ide\commonextensions\microsoft\nuget\nuget.targets
+++Microsoft.Docker.ImportAfter.targets
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.docker.importafter.targets
+++Microsoft.NET.Build.Extensions.targets
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.net.build.extensions.targets
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\microsoft.net.build.extensions\microsoft.net.build.extensions.targets
+++Microsoft.NuGet.ImportAfter.targets
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.nuget.importafter.targets
+++Microsoft.Web.ImportAfter.targets
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.web.importafter.targets
+++Microsoft.Docker.targets
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:c:\program files\microsoft visual studio\2022\community\msbuild\sdks\microsoft.docker.sdk\build\microsoft.docker.targets
+++Vocabulary.dll
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:e:\fullstackdevelopment\csharpanddotnet\chapter02\chapter02\vocabulary\obj\debug\net6.0\vocabulary.dll
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:e:\fullstackdevelopment\csharpanddotnet\chapter02\chapter02\vocabulary\obj\debug\net6.0\ref\vocabulary.dll
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:e:\fullstackdevelopment\csharpanddotnet\chapter02\chapter02\vocabulary\bin\debug\net6.0\vocabulary.dll
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:e:\fullstackdevelopment\csharpanddotnet\chapter02\chapter02\vocabulary\bin\debug\net6.0\ref\vocabulary.dll
+++Vocabulary.pdb
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:e:\fullstackdevelopment\csharpanddotnet\chapter02\chapter02\vocabulary\obj\debug\net6.0\vocabulary.pdb
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:e:\fullstackdevelopment\csharpanddotnet\chapter02\chapter02\vocabulary\bin\debug\net6.0\vocabulary.pdb
+++apphost.exe
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:e:\fullstackdevelopment\csharpanddotnet\chapter02\chapter02\vocabulary\obj\debug\net6.0\apphost.exe
+++Vocabulary.deps.json
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:e:\fullstackdevelopment\csharpanddotnet\chapter02\chapter02\vocabulary\bin\debug\net6.0\vocabulary.deps.json
+++Vocabulary.genruntimeconfig.cache
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:e:\fullstackdevelopment\csharpanddotnet\chapter02\chapter02\vocabulary\obj\debug\net6.0\vocabulary.genruntimeconfig.cache
+++Vocabulary.exe
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:e:\fullstackdevelopment\csharpanddotnet\chapter02\chapter02\vocabulary\bin\debug\net6.0\vocabulary.exe
+++Vocabulary.runtimeconfig.json
+i:{d7412ddd-e3a4-4d87-94f8-db7d99a2a01c}:e:\fullstackdevelopment\csharpanddotnet\chapter02\chapter02\vocabulary\bin\debug\net6.0\vocabulary.runtimeconfig.json
