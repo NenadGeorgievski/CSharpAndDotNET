@@ -5,7 +5,22 @@
       "ProjectGuid": "fec281b0-6a5c-4b79-a8e6-311f8dcbb374",
       "DisplayName": "Operators",
       "ColorIndex": 0
+    },
+    "bdc4242b-cbbc-46de-aea3-c3bed0f69e95": {
+      "ProjectGuid": "bdc4242b-cbbc-46de-aea3-c3bed0f69e95",
+      "DisplayName": "BooleanOperators",
+      "ColorIndex": 1
+    },
+    "c05fb1fe-3e52-45ed-9034-09333fbbd746": {
+      "ProjectGuid": "c05fb1fe-3e52-45ed-9034-09333fbbd746",
+      "DisplayName": "BitwiseAndShiftOperators",
+      "ColorIndex": 2
+    },
+    "88d2ed6e-04de-453f-9cd0-2a19f4e27ba4": {
+      "ProjectGuid": "88d2ed6e-04de-453f-9cd0-2a19f4e27ba4",
+      "DisplayName": "SelectStatements",
+      "ColorIndex": 3
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 4
 }

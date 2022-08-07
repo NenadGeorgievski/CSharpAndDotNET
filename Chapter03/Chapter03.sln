@@ -5,11 +5,15 @@ VisualStudioVersion = 17.0.32126.317
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Operators", "Operators\Operators.csproj", "{FEC281B0-6A5C-4B79-A8E6-311F8DCBB374}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BooleanOperators", "BooleanOperators\BooleanOperators.csproj", "{BDC4242B-CBBC-46DE-AEA3-C3BED0F69E95}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BooleanOperators", "BooleanOperators\BooleanOperators.csproj", "{BDC4242B-CBBC-46DE-AEA3-C3BED0F69E95}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitwiseAndShiftOperators", "BitwiseAndShiftOperators\BitwiseAndShiftOperators.csproj", "{C05FB1FE-3E52-45ED-9034-09333FBBD746}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BitwiseAndShiftOperators", "BitwiseAndShiftOperators\BitwiseAndShiftOperators.csproj", "{C05FB1FE-3E52-45ED-9034-09333FBBD746}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelectStatements", "SelectStatements\SelectStatements.csproj", "{88D2ED6E-04DE-453F-9CD0-2A19F4E27BA4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SelectStatements", "SelectStatements\SelectStatements.csproj", "{88D2ED6E-04DE-453F-9CD0-2A19F4E27BA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iteration statements", "Iteration statements\Iteration statements.csproj", "{767771FF-0E2B-4A47-87AA-96798D2006ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CastingAndConverting", "CastingAndConverting\CastingAndConverting.csproj", "{C5B86050-E2FD-428C-AED0-8CF3C7ED9AED}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{88D2ED6E-04DE-453F-9CD0-2A19F4E27BA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{88D2ED6E-04DE-453F-9CD0-2A19F4E27BA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{88D2ED6E-04DE-453F-9CD0-2A19F4E27BA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{767771FF-0E2B-4A47-87AA-96798D2006ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{767771FF-0E2B-4A47-87AA-96798D2006ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{767771FF-0E2B-4A47-87AA-96798D2006ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{767771FF-0E2B-4A47-87AA-96798D2006ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5B86050-E2FD-428C-AED0-8CF3C7ED9AED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5B86050-E2FD-428C-AED0-8CF3C7ED9AED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5B86050-E2FD-428C-AED0-8CF3C7ED9AED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5B86050-E2FD-428C-AED0-8CF3C7ED9AED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
