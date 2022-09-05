@@ -1,0 +1,15 @@
+E:\FullStackDevelopment\CSharpAndDotNET\Practice\Exercise3.1\bin\Debug\net6.0\Exercise3.1.exe
+E:\FullStackDevelopment\CSharpAndDotNET\Practice\Exercise3.1\bin\Debug\net6.0\Exercise3.1.deps.json
+E:\FullStackDevelopment\CSharpAndDotNET\Practice\Exercise3.1\bin\Debug\net6.0\Exercise3.1.runtimeconfig.json
+E:\FullStackDevelopment\CSharpAndDotNET\Practice\Exercise3.1\bin\Debug\net6.0\Exercise3.1.dll
+E:\FullStackDevelopment\CSharpAndDotNET\Practice\Exercise3.1\bin\Debug\net6.0\Exercise3.1.pdb
+E:\FullStackDevelopment\CSharpAndDotNET\Practice\Exercise3.1\obj\Debug\net6.0\Exercise3.1.csproj.AssemblyReference.cache
+E:\FullStackDevelopment\CSharpAndDotNET\Practice\Exercise3.1\obj\Debug\net6.0\Exercise3.1.GeneratedMSBuildEditorConfig.editorconfig
+E:\FullStackDevelopment\CSharpAndDotNET\Practice\Exercise3.1\obj\Debug\net6.0\Exercise3.1.AssemblyInfoInputs.cache
+E:\FullStackDevelopment\CSharpAndDotNET\Practice\Exercise3.1\obj\Debug\net6.0\Exercise3.1.AssemblyInfo.cs
+E:\FullStackDevelopment\CSharpAndDotNET\Practice\Exercise3.1\obj\Debug\net6.0\Exercise3.1.csproj.CoreCompileInputs.cache
+E:\FullStackDevelopment\CSharpAndDotNET\Practice\Exercise3.1\obj\Debug\net6.0\Exercise3.1.dll
+E:\FullStackDevelopment\CSharpAndDotNET\Practice\Exercise3.1\obj\Debug\net6.0\refint\Exercise3.1.dll
+E:\FullStackDevelopment\CSharpAndDotNET\Practice\Exercise3.1\obj\Debug\net6.0\Exercise3.1.pdb
+E:\FullStackDevelopment\CSharpAndDotNET\Practice\Exercise3.1\obj\Debug\net6.0\Exercise3.1.genruntimeconfig.cache
+E:\FullStackDevelopment\CSharpAndDotNET\Practice\Exercise3.1\obj\Debug\net6.0\ref\Exercise3.1.dll

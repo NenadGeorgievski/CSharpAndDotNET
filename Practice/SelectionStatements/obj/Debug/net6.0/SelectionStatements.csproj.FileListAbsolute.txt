@@ -1,0 +1,15 @@
+E:\FullStackDevelopment\CSharpAndDotNET\Practice\SelectionStatements\bin\Debug\net6.0\SelectionStatements.exe
+E:\FullStackDevelopment\CSharpAndDotNET\Practice\SelectionStatements\bin\Debug\net6.0\SelectionStatements.deps.json
+E:\FullStackDevelopment\CSharpAndDotNET\Practice\SelectionStatements\bin\Debug\net6.0\SelectionStatements.runtimeconfig.json
+E:\FullStackDevelopment\CSharpAndDotNET\Practice\SelectionStatements\bin\Debug\net6.0\SelectionStatements.dll
+E:\FullStackDevelopment\CSharpAndDotNET\Practice\SelectionStatements\bin\Debug\net6.0\SelectionStatements.pdb
+E:\FullStackDevelopment\CSharpAndDotNET\Practice\SelectionStatements\obj\Debug\net6.0\SelectionStatements.csproj.AssemblyReference.cache
+E:\FullStackDevelopment\CSharpAndDotNET\Practice\SelectionStatements\obj\Debug\net6.0\SelectionStatements.GeneratedMSBuildEditorConfig.editorconfig
+E:\FullStackDevelopment\CSharpAndDotNET\Practice\SelectionStatements\obj\Debug\net6.0\SelectionStatements.AssemblyInfoInputs.cache
+E:\FullStackDevelopment\CSharpAndDotNET\Practice\SelectionStatements\obj\Debug\net6.0\SelectionStatements.AssemblyInfo.cs
+E:\FullStackDevelopment\CSharpAndDotNET\Practice\SelectionStatements\obj\Debug\net6.0\SelectionStatements.csproj.CoreCompileInputs.cache
+E:\FullStackDevelopment\CSharpAndDotNET\Practice\SelectionStatements\obj\Debug\net6.0\SelectionStatements.dll
+E:\FullStackDevelopment\CSharpAndDotNET\Practice\SelectionStatements\obj\Debug\net6.0\refint\SelectionStatements.dll
+E:\FullStackDevelopment\CSharpAndDotNET\Practice\SelectionStatements\obj\Debug\net6.0\SelectionStatements.pdb
+E:\FullStackDevelopment\CSharpAndDotNET\Practice\SelectionStatements\obj\Debug\net6.0\SelectionStatements.genruntimeconfig.cache
+E:\FullStackDevelopment\CSharpAndDotNET\Practice\SelectionStatements\obj\Debug\net6.0\ref\SelectionStatements.dll

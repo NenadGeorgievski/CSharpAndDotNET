@@ -20,7 +20,22 @@
       "ProjectGuid": "88d2ed6e-04de-453f-9cd0-2a19f4e27ba4",
       "DisplayName": "SelectStatements",
       "ColorIndex": 3
+    },
+    "767771ff-0e2b-4a47-87aa-96798d2006ed": {
+      "ProjectGuid": "767771ff-0e2b-4a47-87aa-96798d2006ed",
+      "DisplayName": "Iteration statements",
+      "ColorIndex": 4
+    },
+    "c5b86050-e2fd-428c-aed0-8cf3c7ed9aed": {
+      "ProjectGuid": "c5b86050-e2fd-428c-aed0-8cf3c7ed9aed",
+      "DisplayName": "CastingAndConverting",
+      "ColorIndex": 5
+    },
+    "ae1e7c94-0c40-483d-9f44-44420db34e0b": {
+      "ProjectGuid": "ae1e7c94-0c40-483d-9f44-44420db34e0b",
+      "DisplayName": "HandlingExceptions",
+      "ColorIndex": 6
     }
   },
-  "NextColorIndex": 4
+  "NextColorIndex": 7
 }
