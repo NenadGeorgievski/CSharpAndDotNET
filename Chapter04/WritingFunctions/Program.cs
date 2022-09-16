@@ -108,7 +108,10 @@ static int Factorial(int number)
 	else
 		checked
 		{
-			return number * Factorial(number - 1);
+			int returnVal = Factorial(number - 1);
+			int res = number * returnVal;
+			return res;
+			
 		}
 }
 
