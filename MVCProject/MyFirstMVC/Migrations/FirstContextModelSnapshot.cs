@@ -51,7 +51,7 @@ namespace MyFirstMVC.Migrations
 
                     b.HasKey("PersonID");
 
-                    b.ToTable("Person");
+                    b.ToTable("Person", (string)null);
                 });
 
             modelBuilder.Entity("MyFirstMVC.Models.Entities.PersonDetails", b =>
@@ -91,7 +91,7 @@ namespace MyFirstMVC.Migrations
 
                     b.HasIndex("PersonID");
 
-                    b.ToTable("PersonDetails");
+                    b.ToTable("PersonDetails", (string)null);
                 });
 
             modelBuilder.Entity("MyFirstMVC.Models.Entities.PersonDetails", b =>

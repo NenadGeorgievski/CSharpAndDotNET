@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32922.545
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFirstMVC", "MyFirstMVC\MyFirstMVC.csproj", "{52487353-EFB1-4BE0-A6E7-85453317276D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyFirstMVC", "MyFirstMVC\MyFirstMVC.csproj", "{52487353-EFB1-4BE0-A6E7-85453317276D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFirstMVCAuthentification", "MyFirstMVCAuthentification\MyFirstMVCAuthentification.csproj", "{19409309-CDAB-442D-86C7-B5244C6E63FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFirstDbTableConnection", "MyFirstDbTableConnection\MyFirstDbTableConnection.csproj", "{BBC1D7B6-197B-4373-9A3B-0D37DF26AB52}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{52487353-EFB1-4BE0-A6E7-85453317276D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{52487353-EFB1-4BE0-A6E7-85453317276D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{52487353-EFB1-4BE0-A6E7-85453317276D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19409309-CDAB-442D-86C7-B5244C6E63FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19409309-CDAB-442D-86C7-B5244C6E63FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19409309-CDAB-442D-86C7-B5244C6E63FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19409309-CDAB-442D-86C7-B5244C6E63FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBC1D7B6-197B-4373-9A3B-0D37DF26AB52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBC1D7B6-197B-4373-9A3B-0D37DF26AB52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBC1D7B6-197B-4373-9A3B-0D37DF26AB52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBC1D7B6-197B-4373-9A3B-0D37DF26AB52}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
