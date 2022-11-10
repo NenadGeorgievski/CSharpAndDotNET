@@ -16,10 +16,10 @@ namespace MyFirstDbTableConnection.Data
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.Entity<BookCategories>().HasKey(u => new
+            modelBuilder.Entity<BookCategories>().HasKey(bc => new
             {
-                u.BookID,
-                u.CategoryID
+                bc.BookID,
+                bc.CategoryID
             });
         }
     }
