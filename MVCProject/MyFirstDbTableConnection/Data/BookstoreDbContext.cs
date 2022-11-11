@@ -14,6 +14,8 @@ namespace MyFirstDbTableConnection.Data
 
         public DbSet<BookCategories> BookCategories { get; set; }
 
+        public DbSet<Employee> Employees { get; set; }
+
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.Entity<BookCategories>().HasKey(bc => new
